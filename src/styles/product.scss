@@ -6,6 +6,7 @@
   }
 }
 
-.bike-image {
+.bike-image,
+.description__image {
   @include hover(transform, scale(1.2));
 }
